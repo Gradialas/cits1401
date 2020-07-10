@@ -4,7 +4,7 @@ where each index corresponds to the frequency of that leading digit. In addition
 program also regularises the distribution based on its booleon (default = false).
 (minimum, maximum, average, standard deviations and correlation) '''
 
-#Project1
+#Project2
 #CITS1401
 #Author: Anshul Kotha
 #Student ID: 22653683
